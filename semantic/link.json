@@ -1,22 +1,16 @@
 {
   "link": {
-    "primary": {
-      "value": { "value": "{neutral.8}", "type": "color" },
-      "hover": { "value": "{brand.5}", "type": "color" },
-      "active": { "value": "{neutral.6}", "type": "color" },
-      "disabled": { "value": "rgba(27, 27, 27, 0.3)", "type": "color", "comment": "= neutral.8 @ 30%" }
-    },
-    "inverse": {
-      "value": { "value": "{beige.3}", "type": "color" },
-      "hover": { "value": "{beige.4}", "type": "color" },
-      "active": { "value": "{beige.5}", "type": "color" },
-      "disabled": { "value": "rgba(249, 245, 234, 0.6)", "type": "color", "comment": "= beige.3 @ 60%" }
-    },
-    "brand": {
-      "value": { "value": "{brand.5}", "type": "color" },
-      "hover": { "value": "{brand.4}", "type": "color" },
-      "active": { "value": "{brand.3}", "type": "color" },
-      "disabled": { "value": "{alpha.brand.30}", "type": "color" }
-    }
+    "primary": { "value": "{neutral.8}", "type": "color" },
+    "primaryHover": { "value": "{brand.5}", "type": "color" },
+    "primaryActive": { "value": "{neutral.6}", "type": "color" },
+    "primaryDisabled": { "value": "rgba(27, 27, 27, 0.3)", "type": "color", "comment": "= neutral.8 @ 30%" },
+    "inverse": { "value": "{beige.3}", "type": "color" },
+    "inverseHover": { "value": "{beige.4}", "type": "color" },
+    "inverseActive": { "value": "{beige.5}", "type": "color" },
+    "inverseDisabled": { "value": "rgba(249, 245, 234, 0.6)", "type": "color", "comment": "= beige.3 @ 60%" },
+    "brand": { "value": "{brand.5}", "type": "color" },
+    "brandHover": { "value": "{brand.4}", "type": "color" },
+    "brandActive": { "value": "{brand.3}", "type": "color" },
+    "brandDisabled": { "value": "{alpha.brand.30}", "type": "color" }
   }
 }

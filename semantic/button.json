@@ -1,26 +1,18 @@
 {
   "button": {
-    "primary": {
-      "bg": { "value": "{neutral.8}", "type": "color" },
-      "bgHover": { "value": "{brand.5}", "type": "color" },
-      "bgActive": { "value": "{neutral.6}", "type": "color" }
-    },
-    "secondary": {
-      "bg": { "value": "{neutral.8}", "type": "color" },
-      "bgHover": { "value": "{brand.5}", "type": "color" },
-      "bgActive": { "value": "{neutral.6}", "type": "color" }
-    },
-    "tertiary": {
-      "bg": { "value": "{neutral.8}", "type": "color" },
-      "bgHover": { "value": "{beige.4}", "type": "color" },
-      "bgActive": { "value": "{neutral.6}", "type": "color" }
-    },
-    "inverse": {
-      "bg": { "value": "{beige.3}", "type": "color" },
-      "bgHover": { "value": "{beige.4}", "type": "color" },
-      "bgActive": { "value": "{beige.5}", "type": "color" },
-      "bgDisabled": { "value": "rgba(249, 245, 234, 0.3)", "type": "color", "comment": "= beige.3 @ 30%" }
-    },
+    "primary": { "value": "{neutral.8}", "type": "color" },
+    "primaryHover": { "value": "{brand.5}", "type": "color" },
+    "primaryActive": { "value": "{neutral.6}", "type": "color" },
+    "secondary": { "value": "{neutral.8}", "type": "color" },
+    "secondaryHover": { "value": "{brand.5}", "type": "color" },
+    "secondaryActive": { "value": "{neutral.6}", "type": "color" },
+    "tertiary": { "value": "{neutral.8}", "type": "color" },
+    "tertiaryHover": { "value": "{beige.4}", "type": "color" },
+    "tertiaryActive": { "value": "{neutral.6}", "type": "color" },
+    "inverse": { "value": "{beige.3}", "type": "color" },
+    "inverseHover": { "value": "{beige.4}", "type": "color" },
+    "inverseActive": { "value": "{beige.5}", "type": "color" },
+    "inverseDisabled": { "value": "rgba(249, 245, 234, 0.3)", "type": "color", "comment": "= beige.3 @ 30%" },
     "disabled": { "value": "rgba(27, 27, 27, 0.3)", "type": "color", "comment": "= neutral.8 @ 30%" }
   }
 }

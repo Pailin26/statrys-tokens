@@ -11,7 +11,8 @@
       "buildPath": "dist/",
       "files": [
         { "destination": "tokens.json", "format": "json/flat" },
-        { "destination": "tokens.js", "format": "javascript/es6" }
+        { "destination": "tokens.js", "format": "javascript/es6" },
+        { "destination": "tokens.d.ts", "format": "typescript/es6-declarations" }
       ]
     }
   }
