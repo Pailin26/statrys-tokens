@@ -1,10 +1,28 @@
 {
   "neutral": {
+    "black": { "value": "#000000", "type": "color" },
+    "white": { "value": "#ffffff", "type": "color" },
     "0": { "value": "#ffffff", "type": "color" },
+    "1": { "value": "#f5f4f1", "type": "color" },
+    "2": { "value": "#d0d0d0", "type": "color" },
+    "3": { "value": "#a0a0a0", "type": "color" },
+    "4": { "value": "#808080", "type": "color" },
+    "5": { "value": "#575757", "type": "color" },
+    "6": { "value": "#3d3d3d", "type": "color" },
+    "7": { "value": "#323232", "type": "color" },
     "8": { "value": "#1b1b1b", "type": "color", "comment": "Dark mode background base" },
-    "9": { "value": "#000000", "type": "color" }
+    "9": { "value": "#010101", "type": "color" },
+    "10": { "value": "#000000", "type": "color" }
   },
   "beige": {
-    "50": { "value": "#f9f5ea", "type": "color", "comment": "Maps to Neutral ramp in dark mode" }
+    "1": { "value": "#fcfcf9", "type": "color" },
+    "2": { "value": "#faf9f4", "type": "color" },
+    "3": { "value": "#f9f5ea", "type": "color" },
+    "4": { "value": "#f3ecda", "type": "color" },
+    "5": { "value": "#eee3c9", "type": "color" },
+    "6": { "value": "#e7d3a3", "type": "color" },
+    "7": { "value": "#dec074", "type": "color" },
+    "8": { "value": "#d6ac38", "type": "color" },
+    "9": { "value": "#cd9700", "type": "color" }
   }
 }

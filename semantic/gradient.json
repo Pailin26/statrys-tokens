@@ -1,0 +1,13 @@
+{
+  "gradient": {
+    "strong": { "value": "linear-gradient(42deg, #FF4A15 -15.69%, #FF553A 43.66%, #FF7FC4 153.43%)", "type": "gradient" },
+    "default": { "value": "linear-gradient(56deg, #FF4A15 23%, #FF553A 38.58%, #FF6264 58.41%, #FF6C86 78.24%, #FF74A1 99.49%, #FF7AB4 120.74%, #FF7DC0 141.98%, #FF7FC4 164.65%)", "type": "gradient" },
+    "soft": { "value": "linear-gradient(57deg, #FF4A15 -29.02%, #FF553A -7.68%, #FF6264 19.49%, #FF6C86 46.65%, #FF74A1 75.75%, #FF7AB4 104.85%, #FF7DC0 133.95%, #FF7FC4 165%)", "type": "gradient" },
+    "directionTopLeft": { "value": "linear-gradient(43deg, #FF4A15 10.95%, #FF7FC4 99.34%)", "type": "gradient" },
+    "directionTopRight": { "value": "linear-gradient(46deg, #FF4A15 23.35%, #FF553A 32.97%, #FF6264 45.22%, #FF6C86 57.48%, #FF74A1 70.6%, #FF7AB4 83.73%, #FF7DC0 96.86%, #FF7FC4 110.86%)", "type": "gradient" },
+    "directionBottomLeft": { "value": "linear-gradient(102deg, #FF4A15 -2.47%, #FF7FC4 101.12%)", "type": "gradient" },
+    "directionBottomRight": { "value": "linear-gradient(89deg, #FF4A15 1.41%, #FF7FC4 99.16%)", "type": "gradient" },
+    "blackCta": { "value": "linear-gradient(266deg, #1B1B1B 13.26%, rgba(27, 27, 27, 0.90) 101.71%)", "type": "gradient" },
+    "badgeCustom": { "value": "linear-gradient(21deg, #ff4a15 15.7%, #ff553a 43.7%, #ff7fc4 153.4%)", "type": "gradient" }
+  }
+}

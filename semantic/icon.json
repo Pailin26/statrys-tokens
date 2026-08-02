@@ -1,5 +1,5 @@
 {
-  "text": {
+  "icon": {
     "primary": { "value": "{neutral.8}", "type": "color" },
     "secondary": { "value": "{neutral.4}", "type": "color" },
     "placeholder": { "value": "{neutral.3}", "type": "color" },

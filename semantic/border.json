@@ -1,0 +1,49 @@
+{
+  "border": {
+    "beige": {
+      "primary": { "value": "rgba(160, 160, 160, 0.2)", "type": "color", "comment": "= neutral.3 @ 20%" },
+      "primaryHover": { "value": "rgba(160, 160, 160, 0.3)", "type": "color", "comment": "= neutral.3 @ 30%" },
+      "primaryActive": { "value": "rgba(160, 160, 160, 0.4)", "type": "color", "comment": "= neutral.3 @ 40%" },
+      "secondary": { "value": "rgba(160, 160, 160, 0.2)", "type": "color", "comment": "= neutral.3 @ 20%" },
+      "secondaryHover": { "value": "rgba(160, 160, 160, 0.3)", "type": "color", "comment": "= neutral.3 @ 30%" },
+      "secondaryActive": { "value": "rgba(160, 160, 160, 0.4)", "type": "color", "comment": "= neutral.3 @ 40%" },
+      "tertiary": { "value": "rgba(160, 160, 160, 0.3)", "type": "color", "comment": "= neutral.3 @ 30%" },
+      "tertiaryHover": { "value": "rgba(160, 160, 160, 0.5)", "type": "color", "comment": "= neutral.3 @ 50%" },
+      "tertiaryActive": { "value": "rgba(160, 160, 160, 0.7)", "type": "color", "comment": "= neutral.3 @ 70%" }
+    },
+    "neutral": {
+      "primary": { "value": "rgba(208, 208, 208, 0.4)", "type": "color", "comment": "= neutral.2 @ 40%" },
+      "primaryHover": { "value": "rgba(208, 208, 208, 0.8)", "type": "color", "comment": "= neutral.2 @ 80%" },
+      "primaryActive": { "value": "{neutral.2}", "type": "color" },
+      "secondary": { "value": "{neutral.2}", "type": "color" },
+      "secondaryHover": { "value": "rgba(208, 208, 208, 0.6)", "type": "color", "comment": "= neutral.2 @ 60%" },
+      "secondaryActive": { "value": "{neutral.3}", "type": "color" },
+      "tertiary": { "value": "{neutral.2}", "type": "color" },
+      "tertiaryHover": { "value": "{neutral.3}", "type": "color" },
+      "tertiaryActive": { "value": "{neutral.4}", "type": "color" }
+    },
+    "neutralInverse": {
+      "primary": { "value": "{neutral.6}", "type": "color" },
+      "primaryHover": { "value": "{neutral.5}", "type": "color" },
+      "primaryActive": { "value": "{neutral.4}", "type": "color" },
+      "secondary": { "value": "{neutral.5}", "type": "color" },
+      "secondaryHover": { "value": "{neutral.4}", "type": "color" },
+      "secondaryActive": { "value": "{neutral.3}", "type": "color" },
+      "tertiary": { "value": "{neutral.4}", "type": "color" },
+      "tertiaryHover": { "value": "{neutral.3}", "type": "color" },
+      "tertiaryActive": { "value": "{neutral.2}", "type": "color" }
+    },
+    "brand": {
+      "primary": { "value": "{brand.5}", "type": "color" },
+      "primaryHover": { "value": "{brand.4}", "type": "color" },
+      "primaryActive": { "value": "{brand.3}", "type": "color" },
+      "secondary": { "value": "{alpha.white.40}", "type": "color" },
+      "secondaryHover": { "value": "{alpha.white.50}", "type": "color" },
+      "secondaryActive": { "value": "{alpha.white.70}", "type": "color" }
+    },
+    "success": { "subtle": { "value": "{green.3}", "type": "color" }, "bold": { "value": "{green.6}", "type": "color" } },
+    "warning": { "subtle": { "value": "{yellow.3}", "type": "color" }, "bold": { "value": "{yellow.6}", "type": "color" } },
+    "error": { "subtle": { "value": "{red.3}", "type": "color" }, "bold": { "value": "{red.6}", "type": "color" } },
+    "info": { "subtle": { "value": "{blue.3}", "type": "color" }, "bold": { "value": "{blue.6}", "type": "color" } }
+  }
+}

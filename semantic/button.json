@@ -1,10 +1,26 @@
 {
   "button": {
     "primary": {
-      "bg": {
-        "light": { "value": "{brand.orange}", "type": "color" },
-        "dark": { "value": "{brand.5}", "type": "color", "comment": "btn-primary dark uses Brand/5 orange" }
-      }
-    }
+      "bg": { "value": "{neutral.8}", "type": "color" },
+      "bgHover": { "value": "{brand.5}", "type": "color" },
+      "bgActive": { "value": "{neutral.6}", "type": "color" }
+    },
+    "secondary": {
+      "bg": { "value": "{neutral.8}", "type": "color" },
+      "bgHover": { "value": "{brand.5}", "type": "color" },
+      "bgActive": { "value": "{neutral.6}", "type": "color" }
+    },
+    "tertiary": {
+      "bg": { "value": "{neutral.8}", "type": "color" },
+      "bgHover": { "value": "{beige.4}", "type": "color" },
+      "bgActive": { "value": "{neutral.6}", "type": "color" }
+    },
+    "inverse": {
+      "bg": { "value": "{beige.3}", "type": "color" },
+      "bgHover": { "value": "{beige.4}", "type": "color" },
+      "bgActive": { "value": "{beige.5}", "type": "color" },
+      "bgDisabled": { "value": "rgba(249, 245, 234, 0.3)", "type": "color", "comment": "= beige.3 @ 30%" }
+    },
+    "disabled": { "value": "rgba(27, 27, 27, 0.3)", "type": "color", "comment": "= neutral.8 @ 30%" }
   }
 }

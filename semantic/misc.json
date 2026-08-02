@@ -1,0 +1,7 @@
+{
+  "misc": {
+    "overlay": { "value": "rgba(27, 27, 27, 0.6)", "type": "color", "comment": "= neutral.8 @ 60%" },
+    "transparent": { "value": "rgba(255, 255, 255, 0)", "type": "color" },
+    "skeleton": { "value": "{neutral.2}", "type": "color" }
+  }
+}

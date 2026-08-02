@@ -1,0 +1,6 @@
+{
+  "scrollbar": {
+    "bg": { "value": "rgba(27, 27, 27, 0.3)", "type": "color", "comment": "= neutral.8 @ 30%" },
+    "inverse": { "value": "rgba(249, 245, 234, 0.3)", "type": "color", "comment": "= beige.3 @ 30%" }
+  }
+}

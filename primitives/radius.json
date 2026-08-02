@@ -1,0 +1,20 @@
+{
+  "radius": {
+    "none": { "value": "0px", "type": "dimension" },
+    "sm": { "value": "2px", "type": "dimension" },
+    "md": { "value": "4px", "type": "dimension" },
+    "lg": { "value": "6px", "type": "dimension" },
+    "xl": { "value": "8px", "type": "dimension" },
+    "2xl": { "value": "12px", "type": "dimension" },
+    "3xl": { "value": "16px", "type": "dimension" },
+    "4xl": { "value": "24px", "type": "dimension" },
+    "5xl": { "value": "32px", "type": "dimension" },
+    "full": { "value": "9999px", "type": "dimension" }
+  },
+  "borderWidth": {
+    "base": { "value": "1px", "type": "dimension" },
+    "sm": { "value": "1px", "type": "dimension" },
+    "md": { "value": "1.5px", "type": "dimension" },
+    "lg": { "value": "2px", "type": "dimension" }
+  }
+}

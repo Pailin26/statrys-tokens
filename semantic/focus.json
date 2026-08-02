@@ -1,0 +1,6 @@
+{
+  "focus": {
+    "value": { "value": "{brand.5}", "type": "color" },
+    "inverse": { "value": "{neutral.0}", "type": "color" }
+  }
+}

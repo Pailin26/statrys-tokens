@@ -1,12 +1,63 @@
 {
   "bg": {
-    "surface": {
-      "light": { "value": "{neutral.0}", "type": "color" },
-      "dark": { "value": "{neutral.8}", "type": "color" }
+    "neutral": {
+      "primary": { "value": "{neutral.0}", "type": "color" },
+      "secondary": { "value": "{beige.2}", "type": "color" },
+      "tertiary": { "value": "{neutral.1}", "type": "color" },
+      "primaryHover": { "value": "{beige.2}", "type": "color" },
+      "secondaryHover": { "value": "rgba(238, 227, 201, 0.4)", "type": "color", "comment": "= beige.5 @ 40%" },
+      "tertiaryHover": { "value": "rgba(208, 208, 208, 0.4)", "type": "color", "comment": "= neutral.2 @ 40%" },
+      "primaryActive": { "value": "{beige.4}", "type": "color" },
+      "secondaryActive": { "value": "{beige.5}", "type": "color" },
+      "tertiaryActive": { "value": "{neutral.2}", "type": "color" },
+      "disabled": { "value": "rgba(208, 208, 208, 0.2)", "type": "color", "comment": "= neutral.2 @ 20%" }
     },
-    "page": {
-      "light": { "value": "{beige.50}", "type": "color" },
-      "dark": { "value": "{neutral.8}", "type": "color", "comment": "Beige maps to Neutral ramp in dark mode" }
+    "neutralInverse": {
+      "primary": { "value": "{neutral.8}", "type": "color" },
+      "secondary": { "value": "{neutral.7}", "type": "color" },
+      "tertiary": { "value": "{neutral.6}", "type": "color" },
+      "primaryHover": { "value": "{neutral.7}", "type": "color" },
+      "secondaryHover": { "value": "{neutral.6}", "type": "color" },
+      "tertiaryHover": { "value": "{neutral.5}", "type": "color" },
+      "primaryActive": { "value": "{neutral.6}", "type": "color" },
+      "secondaryActive": { "value": "{neutral.5}", "type": "color" },
+      "tertiaryActive": { "value": "{neutral.4}", "type": "color" },
+      "disabled": { "value": "rgba(50, 50, 50, 0.6)", "type": "color", "comment": "= neutral.7 @ 60%" }
+    },
+    "beige": {
+      "primary": { "value": "{beige.3}", "type": "color" },
+      "secondary": { "value": "{beige.4}", "type": "color" },
+      "tertiary": { "value": "{beige.5}", "type": "color" },
+      "primaryHover": { "value": "{beige.4}", "type": "color" },
+      "secondaryHover": { "value": "{beige.5}", "type": "color" },
+      "tertiaryHover": { "value": "rgba(222, 192, 116, 0.6)", "type": "color", "comment": "= beige.7 @ 60%" },
+      "primaryActive": { "value": "{beige.5}", "type": "color" },
+      "secondaryActive": { "value": "{beige.6}", "type": "color" },
+      "tertiaryActive": { "value": "{beige.7}", "type": "color" }
+    },
+    "brand": {
+      "primary": { "value": "{brand.5}", "type": "color" },
+      "secondary": { "value": "{alpha.white.20}", "type": "color" },
+      "primaryHover": { "value": "{brand.4}", "type": "color" },
+      "secondaryHover": { "value": "{alpha.white.30}", "type": "color" },
+      "primaryActive": { "value": "{brand.2}", "type": "color" },
+      "secondaryActive": { "value": "{alpha.white.50}", "type": "color" }
+    },
+    "success": {
+      "subtle": { "value": "{green.1}", "type": "color" },
+      "bold": { "value": "{green.6}", "type": "color" }
+    },
+    "warning": {
+      "subtle": { "value": "{yellow.1}", "type": "color" },
+      "bold": { "value": "{yellow.6}", "type": "color" }
+    },
+    "error": {
+      "subtle": { "value": "{red.1}", "type": "color" },
+      "bold": { "value": "{red.6}", "type": "color" }
+    },
+    "info": {
+      "subtle": { "value": "{blue.1}", "type": "color" },
+      "bold": { "value": "{blue.6}", "type": "color" }
     }
   }
 }

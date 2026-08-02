@@ -1,0 +1,9 @@
+{
+  "field": {
+    "bg": { "value": "{bg.neutral.primary}", "type": "color" },
+    "bgDisabled": { "value": "{bg.neutral.disabled}", "type": "color" },
+    "border": { "value": "{border.neutral.primary}", "type": "color" },
+    "borderHover": { "value": "{border.neutral.primaryHover}", "type": "color" },
+    "borderFocus": { "value": "{neutral.10}", "type": "color" }
+  }
+}

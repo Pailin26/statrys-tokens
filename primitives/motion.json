@@ -1,0 +1,21 @@
+{
+  "duration": {
+    "fast": { "value": "100ms", "type": "duration" },
+    "base": { "value": "150ms", "type": "duration" },
+    "slow": { "value": "250ms", "type": "duration" },
+    "slower": { "value": "400ms", "type": "duration" }
+  },
+  "easing": {
+    "default": { "value": "ease", "type": "cubicBezier" },
+    "in": { "value": "ease-in", "type": "cubicBezier" },
+    "out": { "value": "ease-out", "type": "cubicBezier" },
+    "inOut": { "value": "ease-in-out", "type": "cubicBezier" }
+  },
+  "transition": {
+    "base": {
+      "value": "150ms ease",
+      "type": "transition",
+      "comment": "= duration.base + easing.default"
+    }
+  }
+}

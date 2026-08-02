@@ -1,10 +1,13 @@
 {
   "brand": {
-    "orange": { "value": "#ff4a15", "type": "color" },
-    "gradient": {
-      "value": "linear-gradient(13.85deg, #ff4a15 15.7%, #ff553a 43.7%, #ff7fc4 153%)",
-      "type": "gradient"
-    },
-    "5": { "value": "#ff4a15", "type": "color", "comment": "Brand/5 — used for btn-primary in dark mode" }
+    "1": { "value": "#fff0ea", "type": "color" },
+    "2": { "value": "#ffdccf", "type": "color" },
+    "3": { "value": "#ffbda7", "type": "color" },
+    "4": { "value": "#ff8563", "type": "color" },
+    "5": { "value": "#FF4A15", "type": "color", "comment": "Primary brand orange" },
+    "6": { "value": "#da0000", "type": "color" },
+    "7": { "value": "#ad0000", "type": "color" },
+    "8": { "value": "#7b0000", "type": "color" },
+    "9": { "value": "#4c0000", "type": "color" }
   }
 }
