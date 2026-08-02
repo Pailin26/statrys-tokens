@@ -1,0 +1,15 @@
+{
+  "alpha": {
+    "black": {
+      "10": { "value": "rgba(0, 0, 0, 0.1)", "type": "color" },
+      "20": { "value": "rgba(0, 0, 0, 0.2)", "type": "color" },
+      "30": { "value": "rgba(0, 0, 0, 0.3)", "type": "color" },
+      "40": { "value": "rgba(0, 0, 0, 0.4)", "type": "color" },
+      "50": { "value": "rgba(0, 0, 0, 0.5)", "type": "color" },
+      "60": { "value": "rgba(0, 0, 0, 0.6)", "type": "color" },
+      "70": { "value": "rgba(0, 0, 0, 0.7)", "type": "color" },
+      "80": { "value": "rgba(0, 0, 0, 0.8)", "type": "color" },
+      "90": { "value": "rgba(0, 0, 0, 0.9)", "type": "color" }
+    }
+  }
+}

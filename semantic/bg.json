@@ -1,0 +1,12 @@
+{
+  "bg": {
+    "surface": {
+      "light": { "value": "{neutral.0}", "type": "color" },
+      "dark": { "value": "{neutral.8}", "type": "color" }
+    },
+    "page": {
+      "light": { "value": "{beige.50}", "type": "color" },
+      "dark": { "value": "{neutral.8}", "type": "color", "comment": "Beige maps to Neutral ramp in dark mode" }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "button": {
+    "primary": {
+      "bg": {
+        "light": { "value": "{brand.orange}", "type": "color" },
+        "dark": { "value": "{brand.5}", "type": "color", "comment": "btn-primary dark uses Brand/5 orange" }
+      }
+    }
+  }
+}

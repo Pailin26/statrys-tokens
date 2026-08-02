@@ -1,0 +1,10 @@
+{
+  "brand": {
+    "orange": { "value": "#ff4a15", "type": "color" },
+    "gradient": {
+      "value": "linear-gradient(13.85deg, #ff4a15 15.7%, #ff553a 43.7%, #ff7fc4 153%)",
+      "type": "gradient"
+    },
+    "5": { "value": "#ff4a15", "type": "color", "comment": "Brand/5 — used for btn-primary in dark mode" }
+  }
+}

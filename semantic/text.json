@@ -1,0 +1,8 @@
+{
+  "text": {
+    "primary": {
+      "light": { "value": "{neutral.8}", "type": "color" },
+      "dark": { "value": "{neutral.0}", "type": "color" }
+    }
+  }
+}

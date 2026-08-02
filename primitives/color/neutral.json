@@ -1,0 +1,10 @@
+{
+  "neutral": {
+    "0": { "value": "#ffffff", "type": "color" },
+    "8": { "value": "#1b1b1b", "type": "color", "comment": "Dark mode background base" },
+    "9": { "value": "#000000", "type": "color" }
+  },
+  "beige": {
+    "50": { "value": "#f9f5ea", "type": "color", "comment": "Maps to Neutral ramp in dark mode" }
+  }
+}

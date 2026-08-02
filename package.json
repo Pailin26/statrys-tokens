@@ -1,0 +1,11 @@
+{
+  "name": "@statrys/tokens",
+  "version": "0.1.0",
+  "description": "Statrys primitive and semantic design tokens",
+  "main": "dist/tokens.js",
+  "types": "dist/tokens.d.ts",
+  "files": ["dist"],
+  "scripts": {
+    "build": "style-dictionary build --config build/config.json"
+  }
+}
