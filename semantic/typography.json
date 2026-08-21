@@ -1,0 +1,29 @@
+{
+  "typography": {
+    "h0": { "value": "{fontSize.8xl}", "type": "fontSize", "comment": "Desktop size — accounting overrides smaller at tablet (≤1024px) and mobile (≤768px); not modeled here yet" },
+    "h1": { "value": "{fontSize.7xl}", "type": "fontSize" },
+    "h2": { "value": "{fontSize.4xl}", "type": "fontSize" },
+    "h3": { "value": "{fontSize.2xl}", "type": "fontSize" },
+    "h4": { "value": "{fontSize.xl}", "type": "fontSize" },
+    "h5": { "value": "{fontSize.lg}", "type": "fontSize" },
+    "h6": { "value": "{fontSize.base}", "type": "fontSize" },
+    "h0Hl": { "value": "{fontSize.9xl}", "type": "fontSize" },
+    "h1Hl": { "value": "{fontSize.7xl}", "type": "fontSize" },
+    "h2Hl": { "value": "{fontSize.4xl}", "type": "fontSize" },
+    "h3Hl": { "value": "{fontSize.2xl}", "type": "fontSize" },
+    "h4Hl": { "value": "{fontSize.xl}", "type": "fontSize" },
+    "h5Hl": { "value": "{fontSize.lg}", "type": "fontSize" },
+    "h6Hl": { "value": "{fontSize.base}", "type": "fontSize" },
+    "bodyXl": { "value": "{fontSize.xl}", "type": "fontSize" },
+    "bodyLg": { "value": "{fontSize.lg}", "type": "fontSize" },
+    "bodyMd": { "value": "{fontSize.base}", "type": "fontSize" },
+    "bodySm": { "value": "{fontSize.sm}", "type": "fontSize" },
+    "caption": { "value": "{fontSize.xs}", "type": "fontSize" },
+    "captionSm": { "value": "{fontSize.2xs}", "type": "fontSize" },
+    "cardTitle2xl": { "value": "48px", "type": "fontSize", "comment": "Desktop size — smaller at tablet/mobile, not modeled here yet" },
+    "cardTitleXl": { "value": "32px", "type": "fontSize" },
+    "cardTitleLg": { "value": "28px", "type": "fontSize" },
+    "cardTitleMd": { "value": "22px", "type": "fontSize" },
+    "cardTitleSm": { "value": "20px", "type": "fontSize" }
+  }
+}

@@ -5,7 +5,9 @@
   "main": "dist/tokens.js",
   "types": "dist/tokens.d.ts",
   "files": [
-    "dist"
+    "dist",
+    "fonts.css",
+    "fonts"
   ],
   "scripts": {
     "build": "style-dictionary build --config build/config.json"
