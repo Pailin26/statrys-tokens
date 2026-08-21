@@ -1,0 +1,29 @@
+{
+  "loading": {
+    "trackColor": { "value": "{neutral.3}", "type": "color" },
+    "gradientStart": { "value": "{brand.5}", "type": "color" },
+    "gradientMid": { "value": "#FF553A", "type": "color", "comment": "gradient.strong's middle stop — no standalone primitive for this exact color" },
+    "gradientEnd": { "value": "#FF7FC4", "type": "color", "comment": "gradient.strong's end stop — no standalone primitive for this exact color" },
+    "logoColor": { "value": "{text.primary}", "type": "color" },
+
+    "box2xs": { "value": "16px", "type": "dimension" },
+    "r2xs": { "value": "7.2px", "type": "dimension" },
+    "stroke2xs": { "value": "1.6px", "type": "dimension" },
+
+    "boxXs": { "value": "24px", "type": "dimension" },
+    "rXs": { "value": "10.8px", "type": "dimension" },
+    "strokeXs": { "value": "2.4px", "type": "dimension" },
+
+    "boxSm": { "value": "32px", "type": "dimension" },
+    "rSm": { "value": "14.7px", "type": "dimension" },
+    "strokeSm": { "value": "2.6px", "type": "dimension" },
+
+    "boxMd": { "value": "64px", "type": "dimension" },
+    "rMd": { "value": "29.5px", "type": "dimension" },
+    "strokeMd": { "value": "5px", "type": "dimension" },
+
+    "boxLg": { "value": "116px", "type": "dimension" },
+    "rLg": { "value": "55px", "type": "dimension" },
+    "strokeLg": { "value": "6px", "type": "dimension" }
+  }
+}

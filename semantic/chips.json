@@ -1,0 +1,19 @@
+{
+  "chips": {
+    "text": { "value": "{neutral.8}", "type": "color", "comment": "= button.secondary's value — aliased from the primitive directly since button.secondary is itself a component-level token, not a shared one" },
+    "activeBorder": { "value": "{neutral.8}", "type": "color" },
+    "border": { "value": "{border.neutral.primary}", "type": "color" },
+    "radius": { "value": "{radius.md}", "type": "dimension" },
+    "paddingHorizontal": { "value": "13px", "type": "dimension", "comment": "= button.paddingHorizontalSm's value — no shared semantic equivalent to alias" },
+    "height": { "value": "30px", "type": "dimension" },
+    "inputBg": { "value": "{bg.neutral.primary}", "type": "color" },
+    "inputPressedBg": { "value": "{bg.neutral.primaryHover}", "type": "color" },
+    "inputPressedBorder": { "value": "{border.beige.primaryHover}", "type": "color" },
+    "gap": { "value": "{space.2}", "type": "dimension" },
+    "dismissIconColor": { "value": "{text.secondary}", "type": "color" },
+    "dismissSize": { "value": "16px", "type": "dimension" },
+    "fontFamily": { "value": "{font.primary}", "type": "fontFamily" },
+    "fontWeight": { "value": "{fontWeight.medium}", "type": "fontWeight" },
+    "fontSize": { "value": "{fontSize.sm}", "type": "fontSize" }
+  }
+}
