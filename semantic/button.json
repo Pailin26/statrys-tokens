@@ -13,6 +13,27 @@
     "inverseHover": { "value": "{beige.4}", "type": "color" },
     "inverseActive": { "value": "{beige.5}", "type": "color" },
     "inverseDisabled": { "value": "rgba(249, 245, 234, 0.3)", "type": "color", "comment": "= beige.3 @ 30%" },
-    "disabled": { "value": "rgba(27, 27, 27, 0.3)", "type": "color", "comment": "= neutral.8 @ 30%" }
+    "disabled": { "value": "rgba(27, 27, 27, 0.3)", "type": "color", "comment": "= neutral.8 @ 30%" },
+    "textOnFill": { "value": "{text.neutralInverse.primary}", "type": "color", "comment": "Label color on a filled (primary) button" },
+    "textOnFillDisabled": { "value": "{text.neutralInverse.disabled}", "type": "color" },
+
+    "radius": { "value": "{radius.md}", "type": "dimension" },
+    "fontFamily": { "value": "{font.primary}", "type": "fontFamily" },
+    "fontWeight": { "value": "{fontWeight.medium}", "type": "fontWeight" },
+
+    "fontSizeSm": { "value": "{fontSize.sm}", "type": "fontSize" },
+    "paddingVerticalSm": { "value": "0px", "type": "dimension" },
+    "paddingHorizontalSm": { "value": "13px", "type": "dimension" },
+    "heightSm": { "value": "30px", "type": "dimension" },
+
+    "fontSizeMd": { "value": "{fontSize.base}", "type": "fontSize" },
+    "paddingVerticalMd": { "value": "13px", "type": "dimension" },
+    "paddingHorizontalMd": { "value": "17px", "type": "dimension" },
+    "minHeightMd": { "value": "44px", "type": "dimension" },
+
+    "fontSizeLg": { "value": "{fontSize.lg}", "type": "fontSize", "comment": "No lg tier in accounting's Button (only sm/md) — extrapolated for our 3-tier size scale" },
+    "paddingVerticalLg": { "value": "16px", "type": "dimension", "comment": "No lg tier upstream — extrapolated" },
+    "paddingHorizontalLg": { "value": "20px", "type": "dimension", "comment": "No lg tier upstream — extrapolated" },
+    "minHeightLg": { "value": "52px", "type": "dimension", "comment": "No lg tier upstream — extrapolated" }
   }
 }
