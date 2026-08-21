@@ -1,0 +1,43 @@
+{
+  "avatar": {
+    "squareBg": { "value": "{bg.beige.primary}", "type": "color" },
+    "initialsColor": { "value": "{text.primary}", "type": "color" },
+    "fontFamily": { "value": "{font.primary}", "type": "fontFamily" },
+    "fontWeight": { "value": "{fontWeight.regular}", "type": "fontWeight" },
+
+    "boxXs": { "value": "16px", "type": "dimension" },
+    "radiusXs": { "value": "{radius.md}", "type": "dimension" },
+    "fontSizeXs": { "value": "7.059px", "type": "dimension" },
+    "letterSpacingXs": { "value": "-0.3529px", "type": "dimension" },
+
+    "boxSm": { "value": "24px", "type": "dimension" },
+    "radiusSm": { "value": "6px", "type": "dimension" },
+    "fontSizeSm": { "value": "8px", "type": "dimension" },
+    "letterSpacingSm": { "value": "-0.4px", "type": "dimension" },
+
+    "boxMd": { "value": "32px", "type": "dimension" },
+    "radiusMd": { "value": "8px", "type": "dimension" },
+    "fontSizeMd": { "value": "12px", "type": "dimension" },
+    "letterSpacingMd": { "value": "-0.6px", "type": "dimension" },
+
+    "boxLg": { "value": "40px", "type": "dimension" },
+    "radiusLg": { "value": "10px", "type": "dimension" },
+    "fontSizeLg": { "value": "13px", "type": "dimension" },
+    "letterSpacingLg": { "value": "-0.65px", "type": "dimension" },
+
+    "boxXl": { "value": "48px", "type": "dimension" },
+    "radiusXl": { "value": "{radius.2xl}", "type": "dimension" },
+    "fontSizeXl": { "value": "16px", "type": "dimension" },
+    "letterSpacingXl": { "value": "-0.8px", "type": "dimension" },
+
+    "box2xl": { "value": "56px", "type": "dimension" },
+    "radius2xl": { "value": "14px", "type": "dimension" },
+    "fontSize2xl": { "value": "20px", "type": "dimension" },
+    "letterSpacing2xl": { "value": "-1px", "type": "dimension" },
+
+    "box3xl": { "value": "64px", "type": "dimension" },
+    "radius3xl": { "value": "{radius.3xl}", "type": "dimension" },
+    "fontSize3xl": { "value": "24px", "type": "dimension" },
+    "letterSpacing3xl": { "value": "-1.2px", "type": "dimension" }
+  }
+}
