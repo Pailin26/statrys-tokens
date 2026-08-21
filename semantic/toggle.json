@@ -1,0 +1,7 @@
+{
+  "toggle": {
+    "trackBorderWidth": { "value": "0.625px", "type": "dimension", "comment": "Disabled track's border — no existing token matches this exact sub-pixel value (closest is borderWidth.sm at 1px)" },
+    "knobOffset": { "value": "1.25px", "type": "dimension", "comment": "Knob inset from the track edge when the track has no border (non-disabled)" },
+    "knobOffsetWithBorder": { "value": "0.625px", "type": "dimension", "comment": "Knob inset when the track has a border (disabled) — equals trackBorderWidth, so the knob's visible edge lines up the same regardless of state" }
+  }
+}
