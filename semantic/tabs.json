@@ -6,6 +6,7 @@
     "underlineColor": { "value": "{brand.5}", "type": "color" },
     "underlineWidth": { "value": "{borderWidth.md}", "type": "dimension" },
     "borderColor": { "value": "{border.neutral.primary}", "type": "color", "comment": "HorizontalTabs' full-width bottom border in Style=Underline" },
+    "borderWidth": { "value": "{borderWidth.base}", "type": "dimension", "comment": "HorizontalTabs' full-width divider — plain 1px, distinct from the 1.5px active-tab underline indicator" },
     "textDefault": { "value": "{text.secondary}", "type": "color" },
     "textActive": { "value": "{text.primary}", "type": "color", "comment": "Used for both Hover and Active per Figma — Hover is a transient CSS state, not a persisted prop" },
     "badgeBg": { "value": "{bg.neutral.tertiary}", "type": "color" },
