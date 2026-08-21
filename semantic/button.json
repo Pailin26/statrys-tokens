@@ -6,6 +6,10 @@
     "secondary": { "value": "{neutral.8}", "type": "color" },
     "secondaryHover": { "value": "{brand.5}", "type": "color" },
     "secondaryActive": { "value": "{neutral.6}", "type": "color" },
+    "secondaryBg": { "value": "{bg.neutral.primary}", "type": "color", "comment": "Figma specifies a solid fill here, not transparent (verified against node 537:1558)" },
+    "secondaryBgHover": { "value": "{bg.neutral.primaryHover}", "type": "color" },
+    "secondaryBgActive": { "value": "{bg.neutral.primaryActive}", "type": "color" },
+    "secondaryBgDisabled": { "value": "{bg.neutral.disabled}", "type": "color" },
     "tertiary": { "value": "{neutral.8}", "type": "color" },
     "tertiaryHover": { "value": "{beige.4}", "type": "color" },
     "tertiaryActive": { "value": "{neutral.6}", "type": "color" },
@@ -19,6 +23,7 @@
     "textOnInverseFillDisabled": { "value": "{text.disabled}", "type": "color", "comment": "Label color on the inverse-primary button when disabled" },
 
     "radius": { "value": "{radius.md}", "type": "dimension" },
+    "radiusFull": { "value": "{radius.full}", "type": "dimension", "comment": "Shape=Rounded/Circle" },
     "fontFamily": { "value": "{font.primary}", "type": "fontFamily" },
     "fontWeight": { "value": "{fontWeight.medium}", "type": "fontWeight" },
 
@@ -26,16 +31,22 @@
     "paddingVerticalSm": { "value": "0px", "type": "dimension" },
     "paddingHorizontalSm": { "value": "13px", "type": "dimension" },
     "heightSm": { "value": "30px", "type": "dimension" },
+    "squareSizeSm": { "value": "36px", "type": "dimension" },
+    "circleSizeSm": { "value": "30px", "type": "dimension" },
 
     "fontSizeMd": { "value": "{fontSize.base}", "type": "fontSize" },
     "paddingVerticalMd": { "value": "13px", "type": "dimension" },
     "paddingHorizontalMd": { "value": "17px", "type": "dimension" },
     "minHeightMd": { "value": "44px", "type": "dimension" },
+    "squareSizeMd": { "value": "44px", "type": "dimension" },
+    "circleSizeMd": { "value": "44px", "type": "dimension", "comment": "Figma's Secondary/Circle/md sample measures 42px (node 2558:12879) — treated as a one-off Figma inconsistency since every other hierarchy/size pairs Square and Circle at the same size; kept at 44px to match Primary/Tertiary Circle/md and Square/md" },
 
     "fontSizeLg": { "value": "{fontSize.lg}", "type": "fontSize" },
     "paddingVerticalLg": { "value": "13px", "type": "dimension" },
     "paddingHorizontalLg": { "value": "21px", "type": "dimension" },
     "minHeightLg": { "value": "56px", "type": "dimension" },
+    "squareSizeLg": { "value": "56px", "type": "dimension" },
+    "circleSizeLg": { "value": "56px", "type": "dimension" },
 
     "highlightGradient": { "value": "{gradient.strong}", "type": "gradient" },
     "highlightGradientDisabled": {
