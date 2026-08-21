@@ -1,0 +1,8 @@
+{
+  "radio": {
+    "wrapperSizeSm": { "value": "{checkbox.wrapperSizeSm}", "type": "dimension", "comment": "Same touch-target size as Checkbox — sibling form controls in the same set" },
+    "wrapperSizeMd": { "value": "{checkbox.wrapperSizeMd}", "type": "dimension" },
+    "dotSizeSm": { "value": "8.33px", "type": "dimension", "comment": "Inner filled dot when selected — consistently ~41.66% of the wrapper size at both tiers" },
+    "dotSizeMd": { "value": "10.83px", "type": "dimension" }
+  }
+}

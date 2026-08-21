@@ -1,0 +1,11 @@
+{
+  "checkbox": {
+    "wrapperSizeSm": { "value": "{space.10}", "type": "dimension", "comment": "Touch-target wrapper — space.10 happens to equal Figma's 20px exactly" },
+    "wrapperSizeMd": { "value": "26px", "type": "dimension" },
+    "boxSizeSm": { "value": "{space.8}", "type": "dimension", "comment": "space.8 happens to equal Figma's 16px exactly" },
+    "boxSizeMd": { "value": "20.8px", "type": "dimension" },
+    "radiusSm": { "value": "2.667px", "type": "dimension" },
+    "radiusMd": { "value": "3.467px", "type": "dimension" },
+    "selectedBorderWidthMd": { "value": "1.95px", "type": "dimension", "comment": "Selected+Default+size=md's border — every other state/size combo reuses the existing borderWidth.sm (1px) or borderWidth.md (1.5px) primitives directly" }
+  }
+}
