@@ -1,9 +1,0 @@
-{
-  "listCard": {
-    "background": { "value": "{bg.neutral.primary}", "type": "color" },
-    "borderColor": { "value": "{border.neutral.primary}", "type": "color" },
-    "borderWidth": { "value": "{borderWidth.base}", "type": "dimension" },
-    "radius": { "value": "{radius.2xl}", "type": "dimension" },
-    "paddingHorizontal": { "value": "{space.8}", "type": "dimension" }
-  }
-}
