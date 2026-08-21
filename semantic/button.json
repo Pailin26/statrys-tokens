@@ -25,6 +25,7 @@
     "radius": { "value": "{radius.md}", "type": "dimension" },
     "radiusFull": { "value": "{radius.full}", "type": "dimension", "comment": "Shape=Rounded/Circle" },
     "borderWidth": { "value": "{borderWidth.base}", "type": "dimension" },
+    "gap": { "value": "{space.2}", "type": "dimension", "comment": "Icon-to-label spacing — currently only used by ButtonHighlight" },
     "fontFamily": { "value": "{font.primary}", "type": "fontFamily" },
     "fontWeight": { "value": "{fontWeight.medium}", "type": "fontWeight" },
 
