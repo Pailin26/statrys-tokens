@@ -10,7 +10,8 @@
     "fonts"
   ],
   "scripts": {
-    "build": "node build/build.js"
+    "build": "node build/build.js",
+    "prepare": "npm run build"
   },
   "devDependencies": {
     "style-dictionary": "^3.9.2"
