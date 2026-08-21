@@ -1,0 +1,15 @@
+{
+  "xClose": {
+    "icon": { "value": "{icon.primary}", "type": "color" },
+    "iconInverse": { "value": "{icon.neutralInverse.primary}", "type": "color" },
+    "hoverBg": { "value": "{beige.4}", "type": "color", "comment": "= button.tertiaryHover's value — aliased from the primitive directly since that's a component-level token, not a shared one" },
+    "hoverBgInverse": { "value": "{neutral.7}", "type": "color", "comment": "= bg.neutralInverse.primaryHover's value" },
+
+    "sizeSm": { "value": "20px", "type": "dimension" },
+    "sizeMd": { "value": "30px", "type": "dimension" },
+    "radiusSm": { "value": "{radius.md}", "type": "dimension" },
+    "radiusMd": { "value": "6px", "type": "dimension" },
+    "glyphSizeSm": { "value": "10px", "type": "dimension" },
+    "glyphSizeMd": { "value": "16px", "type": "dimension" }
+  }
+}
