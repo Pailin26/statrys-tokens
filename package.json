@@ -6,6 +6,8 @@
   "types": "dist/tokens.d.ts",
   "files": [
     "dist",
+    "primitives",
+    "semantic",
     "fonts.css",
     "fonts"
   ],
