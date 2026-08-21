@@ -4,6 +4,15 @@
     "bgDisabled": { "value": "{bg.neutral.disabled}", "type": "color" },
     "border": { "value": "{border.neutral.primary}", "type": "color" },
     "borderHover": { "value": "{border.neutral.primaryHover}", "type": "color" },
-    "borderFocus": { "value": "{neutral.10}", "type": "color" }
+    "borderFocus": { "value": "{neutral.10}", "type": "color" },
+
+    "heightSm": { "value": "36px", "type": "dimension" },
+    "heightMd": { "value": "44px", "type": "dimension" },
+    "heightLg": { "value": "56px", "type": "dimension" },
+    "iconSize": { "value": "20px", "type": "dimension", "comment": "Search icon, dropdown chevron" },
+    "clearIconWrapperSize": { "value": "20px", "type": "dimension" },
+    "clearIconSize": { "value": "16px", "type": "dimension" },
+    "tooltipIconSize": { "value": "16px", "type": "dimension" },
+    "tooltipIconSizeFloating": { "value": "14px", "type": "dimension", "comment": "Smaller tooltip icon next to a floated (caption-size) label" }
   }
 }
