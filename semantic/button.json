@@ -16,6 +16,7 @@
     "disabled": { "value": "rgba(27, 27, 27, 0.3)", "type": "color", "comment": "= neutral.8 @ 30%" },
     "textOnFill": { "value": "{text.neutralInverse.primary}", "type": "color", "comment": "Label color on a filled (primary) button" },
     "textOnFillDisabled": { "value": "{text.neutralInverse.disabled}", "type": "color" },
+    "textOnInverseFillDisabled": { "value": "{text.disabled}", "type": "color", "comment": "Label color on the inverse-primary button when disabled" },
 
     "radius": { "value": "{radius.md}", "type": "dimension" },
     "fontFamily": { "value": "{font.primary}", "type": "fontFamily" },
@@ -31,9 +32,21 @@
     "paddingHorizontalMd": { "value": "17px", "type": "dimension" },
     "minHeightMd": { "value": "44px", "type": "dimension" },
 
-    "fontSizeLg": { "value": "{fontSize.lg}", "type": "fontSize", "comment": "No lg tier in accounting's Button (only sm/md) — extrapolated for our 3-tier size scale" },
-    "paddingVerticalLg": { "value": "16px", "type": "dimension", "comment": "No lg tier upstream — extrapolated" },
-    "paddingHorizontalLg": { "value": "20px", "type": "dimension", "comment": "No lg tier upstream — extrapolated" },
-    "minHeightLg": { "value": "52px", "type": "dimension", "comment": "No lg tier upstream — extrapolated" }
+    "fontSizeLg": { "value": "{fontSize.lg}", "type": "fontSize" },
+    "paddingVerticalLg": { "value": "13px", "type": "dimension" },
+    "paddingHorizontalLg": { "value": "21px", "type": "dimension" },
+    "minHeightLg": { "value": "56px", "type": "dimension" },
+
+    "highlightGradient": { "value": "{gradient.strong}", "type": "gradient" },
+    "highlightGradientDisabled": {
+      "value": "linear-gradient(56deg, rgba(255, 74, 21, 0.3) 23%, rgba(255, 85, 58, 0.3) 38.58%, rgba(255, 98, 100, 0.3) 58.41%, rgba(255, 108, 134, 0.3) 78.24%, rgba(255, 116, 161, 0.3) 99.49%, rgba(255, 122, 180, 0.3) 120.74%, rgba(255, 125, 192, 0.3) 141.98%, rgba(255, 127, 196, 0.3) 164.65%)",
+      "type": "gradient",
+      "comment": "= gradient.default @ 30% per color stop — Figma's disabled ButtonHighlight treatment"
+    },
+    "highlightSecondaryTextGradient": { "value": "{gradient.default}", "type": "gradient" },
+    "highlightSecondaryBorder": { "value": "{brand.5}", "type": "color" },
+    "highlightSecondaryBg": { "value": "{bg.neutral.primary}", "type": "color" },
+    "highlightSecondaryBgHover": { "value": "{bg.beige.primaryHover}", "type": "color" },
+    "highlightSecondaryBgActive": { "value": "{bg.beige.primaryActive}", "type": "color", "comment": "Not fetched from Figma directly — extrapolated from the hover pattern (one step further on the beige scale), matching how the rest of the active states here are derived" }
   }
 }
