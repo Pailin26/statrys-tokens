@@ -1,0 +1,6 @@
+{
+  "overlay": {
+    "background": { "value": "{misc.overlay}", "type": "color" },
+    "duration": { "value": "350ms", "type": "duration", "comment": "Doesn't match an existing duration.* primitive (closest is duration.slower at 400ms) — kept as this component's own measured value, matching accounting ui/Overlay's motion.div fade duration of 0.35s" }
+  }
+}
