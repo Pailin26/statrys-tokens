@@ -14,7 +14,10 @@ paths was preserved across the split.
 
 ```
 primitives/    ← raw scale values (color, spacing, radius, typography, ...)
-semantic/      ← per-component + cross-cutting semantic tokens (bg.json, button.json, ...)
+semantic/      ← cross-cutting semantic tokens, shared by many components (bg.json, text.json, ...)
+component/     ← per-component tokens, one file per component (button.json, toggle.json, ...) —
+                 may alias semantic/ (or, rarely, primitives/) tokens, but never another
+                 component's file
 build/         ← Style Dictionary config + custom transforms
 fonts/         ← GT Walsheim LC (.ttf for native, .woff2 for web) — licensed, see fonts.css
 icons/         ← icon set scaffold (manifest.json, package.json) — not yet built out or
@@ -22,10 +25,13 @@ icons/         ← icon set scaffold (manifest.json, package.json) — not yet b
                  icon components yet, so nothing currently depends on it
 ```
 
-Tokens follow a three-tier structure — see the *Component-level tokens* rule
-in the consuming repos' `docs/contributing.md`: a component's style file may
-only reference its own `semantic/<component>.json` tokens, never a primitive
-or another file's semantic token directly.
+Tokens follow a three-tier structure (`primitives/` → `semantic/` →
+`component/`) — see the *Component-level tokens* rule in the consuming
+repos' `docs/contributing.md`: a component's style file may only reference
+its own `component/<name>.json` tokens, never a primitive or another
+component's/semantic file's token directly. Physically split into its own
+folder 2026-08-21 — previously component files lived alongside the
+cross-cutting ones in `semantic/`.
 
 ## Build
 

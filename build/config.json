@@ -1,5 +1,5 @@
 {
-  "source": ["primitives/**/*.json", "semantic/**/*.json"],
+  "source": ["primitives/**/*.json", "semantic/**/*.json", "component/**/*.json"],
   "platforms": {
     "css": {
       "transformGroup": "css",
