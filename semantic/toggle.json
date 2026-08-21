@@ -5,6 +5,13 @@
     "knobOffsetWithBorder": { "value": "0.625px", "type": "dimension", "comment": "Knob inset when the track has a border (disabled) — equals trackBorderWidth, so the knob's visible edge lines up the same regardless of state" },
     "trackWidth": { "value": "35px", "type": "dimension" },
     "trackHeight": { "value": "20px", "type": "dimension" },
-    "knobSize": { "value": "17.5px", "type": "dimension" }
+    "knobSize": { "value": "17.5px", "type": "dimension" },
+
+    "trackBg": { "value": "{bg.neutralInverse.tertiary}", "type": "color", "comment": "Unselected, not disabled" },
+    "trackBgSelected": { "value": "{bg.brand.primary}", "type": "color" },
+    "trackBgSelectedDisabled": { "value": "{bg.neutral.disabled}", "type": "color" },
+    "trackBorderDisabled": { "value": "{border.neutral.primary}", "type": "color", "comment": "Disabled track swaps its fill for a hairline border in this color, both selected and not" },
+    "knobBg": { "value": "{bg.neutral.primary}", "type": "color" },
+    "knobBgDisabled": { "value": "{bg.neutral.disabled}", "type": "color" }
   }
 }
