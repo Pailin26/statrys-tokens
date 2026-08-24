@@ -1,0 +1,9 @@
+{
+  "modal": {
+    "width": {
+      "value": "520px",
+      "type": "dimension",
+      "comment": "Fixed dialog width shared by ModalHeader/ModalContent/ModalBottom — Figma [WEB] Design System, assembled Modal node 2734-18960. No semantic dimension token lands on this one-off dialog size, same reasoning as Overlay's own duration literal."
+    }
+  }
+}
