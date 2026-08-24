@@ -1,0 +1,55 @@
+{
+  "pageHeader": {
+    "paddingX": { "value": "{space.16}", "type": "dimension" },
+    "paddingY": { "value": "{space.4}", "type": "dimension" },
+    "gap": { "value": "{space.12}", "type": "dimension" },
+
+    "switcherPadding": { "value": "{space.4}", "type": "dimension" },
+    "switcherGap": { "value": "{space.5}", "type": "dimension" },
+    "switcherRadius": { "value": "{radius.lg}", "type": "dimension" },
+    "switcherBgHover": { "value": "{bg.neutral.primaryHover}", "type": "color" },
+    "switcherText": { "value": "{text.primary}", "type": "color" },
+    "switcherFontFamily": { "value": "{font.primary}", "type": "fontFamily" },
+    "switcherFontWeight": { "value": "{fontWeight.black}", "type": "fontWeight" },
+    "switcherFontSize": { "value": "{typography.h3}", "type": "fontSize" },
+    "switcherLetterSpacing": { "value": "-1.2px", "type": "dimension", "comment": "Figma Heading/H3 style's -5% tracking at 24px — no semantic letter-spacing scale yet" },
+    "switcherIcon": { "value": "{icon.primary}", "type": "color" },
+    "switcherIconSize": { "value": "20px", "type": "dimension" },
+
+    "notificationBg": { "value": "rgba(27, 27, 27, 0.06)", "type": "color", "comment": "= neutral.8 @ 6% — no matching step on the alpha-black scale (starts at 10%)" },
+    "notificationBgHover": { "value": "rgba(27, 27, 27, 0.1)", "type": "color", "comment": "Extrapolated one step darker than resting 6% — Figma only specifies the default state" },
+    "notificationPadding": { "value": "{space.5}", "type": "dimension" },
+    "notificationRadius": { "value": "{radius.xl}", "type": "dimension" },
+    "notificationIcon": { "value": "{icon.primary}", "type": "color" },
+    "notificationIconSize": { "value": "20px", "type": "dimension" },
+    "notificationDotSize": { "value": "6px", "type": "dimension" },
+    "notificationDotColor": { "value": "{icon.brand}", "type": "color" },
+
+    "actionRadius": { "value": "{radius.xl}", "type": "dimension" },
+    "actionHeight": { "value": "41px", "type": "dimension", "comment": "One-off Figma measurement for this header's action row — not the shared Button component's 44px md height" },
+    "actionPaddingX": { "value": "{space.8}", "type": "dimension" },
+    "actionPaddingY": { "value": "{space.5}", "type": "dimension" },
+    "actionGap": { "value": "{space.2}", "type": "dimension" },
+    "actionFontFamily": { "value": "{font.primary}", "type": "fontFamily" },
+    "actionFontWeight": { "value": "{fontWeight.medium}", "type": "fontWeight" },
+    "actionFontSize": { "value": "{typography.bodyMd}", "type": "fontSize" },
+
+    "primaryActionBg": { "value": "{bg.neutralInverse.primary}", "type": "color" },
+    "primaryActionBgHover": { "value": "{bg.neutralInverse.primaryHover}", "type": "color" },
+    "primaryActionText": { "value": "{text.onColor}", "type": "color" },
+    "primaryActionIcon": { "value": "{icon.onColor}", "type": "color" },
+
+    "secondaryActionBg": { "value": "rgba(27, 27, 27, 0.06)", "type": "color", "comment": "= neutral.8 @ 6%, same one-off as notificationBg" },
+    "secondaryActionBgHover": { "value": "rgba(27, 27, 27, 0.1)", "type": "color", "comment": "Extrapolated, same as notificationBgHover" },
+    "secondaryActionText": { "value": "{text.primary}", "type": "color" },
+
+    "profileSize": { "value": "{space.20}", "type": "dimension", "comment": "40px" },
+    "profileRadius": { "value": "{radius.full}", "type": "dimension" },
+    "profileBg": { "value": "{bg.beige.tertiary}", "type": "color" },
+    "profileText": { "value": "{text.primary}", "type": "color" },
+    "profileFontFamily": { "value": "{font.primary}", "type": "fontFamily" },
+    "profileFontWeight": { "value": "{fontWeight.medium}", "type": "fontWeight" },
+    "profileFontSize": { "value": "13px", "type": "dimension", "comment": "Figma's Profile instance is scaled non-uniformly (37.647px box / 17.647px font); treated as a Figma authoring slip and matched instead to component/avatar.json's boxLg=40px tier (fontSizeLg=13px) since 40px is this component's actual rendered size" },
+    "profileLetterSpacing": { "value": "-0.65px", "type": "dimension", "comment": "Matches avatar.json's letterSpacingLg, see profileFontSize comment" }
+  }
+}

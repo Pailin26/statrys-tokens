@@ -1,0 +1,18 @@
+{
+  "dashboardTemplate": {
+    "bg": { "value": "{bg.beige.primary}", "type": "color" },
+    "sidebarOffset": { "value": "{space.28}", "type": "dimension", "comment": "56px reserved for the collapsed Sidebar rail, which is position:fixed and overlays on hover" },
+
+    "mainPaddingX": { "value": "{space.16}", "type": "dimension" },
+    "mainPaddingTop": { "value": "{space.12}", "type": "dimension" },
+    "mainPaddingBottom": { "value": "{space.16}", "type": "dimension" },
+    "mainGap": { "value": "{space.12}", "type": "dimension" },
+
+    "titleFontFamily": { "value": "{font.primary}", "type": "fontFamily" },
+    "titleFontWeight": { "value": "{fontWeight.medium}", "type": "fontWeight" },
+    "titleFontSize": { "value": "{typography.cardTitleXl}", "type": "fontSize" },
+    "titleLineHeight": { "value": "0.9", "type": "other", "comment": "Figma Card title/xl style's unitless line-height" },
+    "titleLetterSpacing": { "value": "-1.6px", "type": "dimension", "comment": "Card title/xl style's -5% tracking at 32px — no semantic letter-spacing scale yet" },
+    "titleColor": { "value": "{text.primary}", "type": "color" }
+  }
+}

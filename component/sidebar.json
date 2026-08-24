@@ -1,0 +1,38 @@
+{
+  "sidebar": {
+    "widthCollapsed": { "value": "{space.28}", "type": "dimension", "comment": "56px rail width at rest" },
+    "widthExpanded": { "value": "265px", "type": "dimension", "comment": "No semantic equivalent — Figma's hover-expanded panel width" },
+    "bgExpanded": { "value": "{alpha.white.40}", "type": "color", "comment": "Frosted glass panel shown on hover/focus-within" },
+    "blurExpanded": { "value": "24px", "type": "dimension", "comment": "= Figma's \"Background blur/button\" effect style radius (distinct from the generic blur.value=12px primitive)" },
+    "borderColor": { "value": "{border.neutral.primary}", "type": "color", "comment": "Divider under the logo block and between menu groups" },
+
+    "paddingTop": { "value": "{space.12}", "type": "dimension" },
+    "paddingBottom": { "value": "{space.4}", "type": "dimension" },
+    "paddingX": { "value": "{space.3}", "type": "dimension" },
+    "sectionGap": { "value": "{space.0}", "type": "dimension", "comment": "Sections stack flush; the border divider provides the visual gap" },
+
+    "logoIconWidth": { "value": "23px", "type": "dimension", "comment": "Bespoke Statrys mark asset dimensions — no semantic equivalent" },
+    "logoIconHeight": { "value": "32.721px", "type": "dimension" },
+    "logoWordmarkWidth": { "value": "93.286px", "type": "dimension", "comment": "Bespoke Statrys wordmark asset dimensions" },
+    "logoWordmarkHeight": { "value": "27.091px", "type": "dimension" },
+
+    "itemHeight": { "value": "38px", "type": "dimension", "comment": "No semantic equivalent on the space scale (19 * 2)" },
+    "itemPaddingX": { "value": "{space.6}", "type": "dimension" },
+    "itemGap": { "value": "{space.6}", "type": "dimension", "comment": "Icon-to-label gap" },
+    "itemGroupGap": { "value": "{space.2}", "type": "dimension", "comment": "Gap between stacked items within one menu group" },
+    "itemRadius": { "value": "{radius.lg}", "type": "dimension" },
+    "itemIconSize": { "value": "20px", "type": "dimension", "comment": "Matches the DS's standard 20px icon convention" },
+
+    "itemBg": { "value": "{misc.transparent}", "type": "color" },
+    "itemBgHover": { "value": "{bg.neutral.primaryHover}", "type": "color" },
+    "itemBgActive": { "value": "{bg.neutral.primary}", "type": "color" },
+    "itemText": { "value": "{text.primary}", "type": "color" },
+    "itemTextDisabled": { "value": "{text.disabled}", "type": "color" },
+    "itemIcon": { "value": "{icon.primary}", "type": "color" },
+    "itemIconDisabled": { "value": "{icon.disabled}", "type": "color" },
+
+    "fontFamily": { "value": "{font.primary}", "type": "fontFamily" },
+    "fontWeight": { "value": "{fontWeight.medium}", "type": "fontWeight" },
+    "fontSize": { "value": "{fontSize.base}", "type": "fontSize" }
+  }
+}
