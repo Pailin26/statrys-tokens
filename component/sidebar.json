@@ -5,6 +5,7 @@
     "bgExpanded": { "value": "{alpha.white.40}", "type": "color", "comment": "Frosted glass panel shown on hover/focus-within" },
     "blurExpanded": { "value": "24px", "type": "dimension", "comment": "= Figma's \"Background blur/button\" effect style radius (distinct from the generic blur.value=12px primitive)" },
     "borderColor": { "value": "{border.neutral.primary}", "type": "color", "comment": "Divider under the logo block and between menu groups" },
+    "borderWidth": { "value": "{borderWidth.base}", "type": "dimension" },
 
     "paddingTop": { "value": "{space.12}", "type": "dimension" },
     "paddingBottom": { "value": "{space.4}", "type": "dimension" },
