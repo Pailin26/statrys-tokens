@@ -1,9 +1,27 @@
 {
   "modal": {
+    "background": { "value": "{bg.neutral.primary}", "type": "color" },
+    "radius": { "value": "{radius.3xl}", "type": "dimension" },
+    "shadow": { "value": "{shadow.card}", "type": "shadow" },
+    "zIndex": { "value": "{zIndex.modal}", "type": "number" },
     "width": {
       "value": "520px",
       "type": "dimension",
-      "comment": "Fixed dialog width shared by ModalHeader/ModalContent/ModalBottom — Figma [WEB] Design System, assembled Modal node 2734-18960. No semantic dimension token lands on this one-off dialog size, same reasoning as Overlay's own duration literal."
-    }
+      "comment": "Fixed dialog width — Figma [WEB] Design System, assembled Modal node 2734-18960 (header/content/footer all measure 520px). No semantic dimension token lands on this one-off dialog size, same reasoning as Overlay's own duration literal."
+    },
+    "padding": { "value": "{space.12}", "type": "dimension", "comment": "Header/content/footer outer padding, and the paddingTop/paddingBottom spacer height" },
+    "gap": { "value": "{space.4}", "type": "dimension", "comment": "Header's title-to-description gap and title-block-to-close gap; footer's button-to-button gap" },
+    "contentGap": { "value": "{space.8}", "type": "dimension", "comment": "ModalContent's own internal row gap" },
+    "textColor": { "value": "{text.primary}", "type": "color", "comment": "Title and description share this color in Figma" },
+    "fontFamily": { "value": "{font.primary}", "type": "fontFamily" },
+    "titleFontWeight": { "value": "{fontWeight.black}", "type": "fontWeight" },
+    "titleFontSize": { "value": "{typography.h3}", "type": "fontSize" },
+    "titleLetterSpacing": {
+      "value": "-1.2px",
+      "type": "dimension",
+      "comment": "No semantic letterSpacing token at h3/24px — one-off literal, same pattern as component/avatar.json's own per-size letterSpacing values"
+    },
+    "bodyFontWeight": { "value": "{fontWeight.regular}", "type": "fontWeight" },
+    "bodyFontSize": { "value": "{typography.bodyMd}", "type": "fontSize" }
   }
 }
