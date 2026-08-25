@@ -1,0 +1,20 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#FAFAFA"/>
+<g id="Country">
+<g id="bahamas">
+<g id="bahamas_2" clip-path="url(#clip0_748_47)">
+<path id="Vector" d="M12 24C18.6274 24 24 18.6274 24 12C24 5.37257 18.6274 0 12 0C5.37257 0 0 5.37257 0 12C0 18.6274 5.37257 24 12 24Z" fill="#FFDA44"/>
+<g id="Group">
+<path id="Vector_2" d="M7.30433 7.8261H23.2535C21.5581 3.25649 17.1595 0 12 0C8.68621 0 5.68654 1.34339 3.51511 3.5151L7.30433 7.8261Z" fill="#338AF3"/>
+<path id="Vector_3" d="M7.30433 16.1739H23.2535C21.5581 20.7435 17.1595 24 12 24C8.68621 24 5.68654 22.6566 3.51511 20.4849L7.30433 16.1739Z" fill="#338AF3"/>
+</g>
+<path id="Vector_4" d="M3.51467 3.51468C-1.1716 8.20096 -1.1716 15.799 3.51467 20.4853C5.45122 18.5487 7.3137 16.6863 12 12L3.51467 3.51468Z" fill="black"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_748_47">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>

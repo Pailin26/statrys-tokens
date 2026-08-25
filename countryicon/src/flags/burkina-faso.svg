@@ -1,0 +1,17 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#FAFAFA"/>
+<g id="Country">
+<g id="burkina faso">
+<g id="burkina faso_2" clip-path="url(#clip0_748_47)">
+<path id="Vector" d="M0 11.9999C0 5.37257 5.37257 0 11.9999 0C18.6272 0 23.9998 5.37257 23.9998 11.9999C23.478 11.9999 11.9999 13.5651 11.9999 13.5651L0 11.9999Z" fill="#D80027"/>
+<path id="Vector_2" d="M23.9998 11.9999C23.9998 18.6272 18.6272 23.9998 11.9999 23.9998C5.37257 23.9998 0 18.6272 0 11.9999" fill="#6DA544"/>
+<path id="Vector_3" d="M11.9998 7.82603L12.9062 10.6159H15.84L13.4666 12.3402L14.3731 15.1303L11.9998 13.406L9.62653 15.1303L10.5331 12.3402L8.15973 10.6159H11.0933L11.9998 7.82603Z" fill="#FFDA44"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_748_47">
+<rect width="23.9998" height="23.9998" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,18 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#FAFAFA"/>
+<g id="Country">
+<g id="mauritius">
+<g id="mauritius_2" clip-path="url(#clip0_748_47)">
+<path id="Vector" d="M1.45911 6.26085L12 7.30433L22.5409 6.26085C20.5056 2.53073 16.5485 0 12 0C7.4515 0 3.49437 2.53073 1.45911 6.26085Z" fill="#D80027"/>
+<path id="Vector_2" d="M1.45908 17.7391L12 18.7826L22.5409 17.7391C23.4711 16.0342 24 14.0789 24 12L12 10.9565L0 12C0 14.0789 0.52889 16.0342 1.45908 17.7391Z" fill="#FFDA44"/>
+<path id="Vector_3" d="M1.45908 6.26085C0.52889 7.96574 0 9.92108 0 12H24C24 9.92108 23.4711 7.96574 22.5409 6.26085H12H1.45908Z" fill="#0052B4"/>
+<path id="Vector_4" d="M12 24C16.5485 24 20.5056 21.4692 22.5409 17.7391H1.45911C3.49437 21.4692 7.4515 24 12 24Z" fill="#6DA544"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_748_47">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>

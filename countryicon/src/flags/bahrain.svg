@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#FAFAFA"/>
+<g id="Country">
+<g id="bahrain">
+<g id="bahrain_2" clip-path="url(#clip0_748_47)">
+<path id="Vector" d="M12 24C18.6274 24 24 18.6274 24 12C24 5.37257 18.6274 0 12 0C5.37257 0 0 5.37257 0 12C0 18.6274 5.37257 24 12 24Z" fill="#F0F0F0"/>
+<path id="Vector_2" d="M12 0C9.59173 0 7.34961 0.709921 5.4703 1.93115L8.5565 3.9997L4.69565 5.99966L8.5565 7.99963L4.69565 9.99959L8.5565 11.9993L4.69565 13.9992L8.5565 15.9992L4.69565 17.9993L8.5565 19.9993L5.46993 22.0685C7.34933 23.2899 9.59159 24 12 24C18.6273 24 24 18.6273 24 12C24 5.37261 18.6273 0 12 0V0Z" fill="#D80027"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_748_47">
+<rect width="24" height="24" fill="white"/>
+</clipPath>
+</defs>
+</svg>

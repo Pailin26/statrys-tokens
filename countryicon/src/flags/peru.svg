@@ -1,0 +1,19 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#FAFAFA"/>
+<g id="Country">
+<g id="peru">
+<g id="peru_2" clip-path="url(#clip0_748_47)">
+<path id="Vector" d="M11.9998 23.9995C18.627 23.9995 23.9995 18.627 23.9995 11.9998C23.9995 5.37248 18.627 0 11.9998 0C5.37248 0 0 5.37248 0 11.9998C0 18.627 5.37248 23.9995 11.9998 23.9995Z" fill="#F0F0F0"/>
+<g id="Group">
+<path id="Vector_2" d="M23.9995 11.9998C23.9995 6.84034 20.7431 2.44186 16.1736 0.746429V23.2532C20.7431 21.5577 23.9995 17.1593 23.9995 11.9998Z" fill="#D80027"/>
+<path id="Vector_3" d="M0 11.9998C0 17.1593 3.25643 21.5577 7.82595 23.2532V0.746429C3.25643 2.44186 0 6.84034 0 11.9998Z" fill="#D80027"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_748_47">
+<rect width="23.9995" height="23.9995" fill="white"/>
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#FAFAFA"/>
+<g id="Country">
+<g id="vietnam">
+<g id="vietnam_2" clip-path="url(#clip0_748_47)">
+<path id="Vector" d="M11.9899 23.9798C18.6117 23.9798 23.9798 18.6117 23.9798 11.9899C23.9798 5.36806 18.6117 0 11.9899 0C5.36806 0 0 5.36806 0 11.9899C0 18.6117 5.36806 23.9798 11.9899 23.9798Z" fill="#D80027"/>
+<path id="Vector_2" d="M11.9899 6.25562L13.2839 10.238H17.4712L14.0836 12.6992L15.3775 16.6816L11.9899 14.2204L8.60231 16.6816L9.89628 12.6992L6.50867 10.238H10.696L11.9899 6.25562Z" fill="#FFDA44"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_748_47">
+<rect width="23.9798" height="23.9798" fill="white"/>
+</clipPath>
+</defs>
+</svg>

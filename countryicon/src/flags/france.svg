@@ -1,0 +1,17 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#FAFAFA"/>
+<g id="Country">
+<g id="france">
+<g id="france_2" clip-path="url(#clip0_748_47)">
+<path id="Vector" d="M11.9995 23.999C18.6266 23.999 23.999 18.6266 23.999 11.9995C23.999 5.37236 18.6266 0 11.9995 0C5.37236 0 0 5.37236 0 11.9995C0 18.6266 5.37236 23.999 11.9995 23.999Z" fill="#F0F0F0"/>
+<path id="Vector_2" d="M23.999 11.9995C23.999 6.84014 20.7426 2.44181 16.1732 0.746368V23.2527C20.7426 21.5572 23.999 17.1589 23.999 11.9995Z" fill="#D80027"/>
+<path id="Vector_3" d="M0 11.9995C0 17.1589 3.25641 21.5572 7.82578 23.2526V0.746368C3.25641 2.44181 0 6.84014 0 11.9995Z" fill="#0052B4"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_748_47">
+<rect width="23.999" height="23.999" fill="white"/>
+</clipPath>
+</defs>
+</svg>

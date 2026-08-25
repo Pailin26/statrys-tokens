@@ -1,0 +1,17 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#FAFAFA"/>
+<g id="Country">
+<g id="ireland">
+<g id="ireland_2" clip-path="url(#clip0_748_47)">
+<path id="Vector" d="M11.9903 23.9806C18.6123 23.9806 23.9806 18.6123 23.9806 11.9903C23.9806 5.36823 18.6123 0 11.9903 0C5.36823 0 0 5.36823 0 11.9903C0 18.6123 5.36823 23.9806 11.9903 23.9806Z" fill="#F0F0F0"/>
+<path id="Vector_2" d="M23.9806 11.9903C23.9806 6.83492 20.7267 2.43991 16.1608 0.745819V23.2349C20.7267 21.5406 23.9806 17.1457 23.9806 11.9903Z" fill="#FF9811"/>
+<path id="Vector_3" d="M0 11.9903C0 17.1457 3.25386 21.5406 7.81977 23.2348V0.745819C3.25386 2.43991 0 6.83492 0 11.9903Z" fill="#6DA544"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_748_47">
+<rect width="23.9806" height="23.9806" fill="white"/>
+</clipPath>
+</defs>
+</svg>

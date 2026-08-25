@@ -1,0 +1,19 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#FAFAFA"/>
+<g id="Country">
+<g id="nigeria">
+<g id="nigeria_2" clip-path="url(#clip0_748_47)">
+<path id="Vector" d="M11.9999 23.9998C18.6272 23.9998 23.9998 18.6272 23.9998 11.9999C23.9998 5.37253 18.6272 0 11.9999 0C5.37253 0 0 5.37253 0 11.9999C0 18.6272 5.37253 23.9998 11.9999 23.9998Z" fill="#F0F0F0"/>
+<g id="Group">
+<path id="Vector_2" d="M0 11.9999C0 17.1595 3.25647 21.5579 7.82603 23.2534V0.746429C3.25647 2.44188 0 6.8404 0 11.9999Z" fill="#6DA544"/>
+<path id="Vector_3" d="M23.9997 11.9999C23.9997 6.8404 20.7433 2.44188 16.1737 0.746429V23.2535C20.7433 21.5579 23.9997 17.1595 23.9997 11.9999Z" fill="#6DA544"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_748_47">
+<rect width="23.9998" height="23.9998" fill="white"/>
+</clipPath>
+</defs>
+</svg>

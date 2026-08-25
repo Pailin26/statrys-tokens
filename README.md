@@ -1,4 +1,4 @@
-# Statrys Tokens (`@statrys/tokens`, `@statrys/icons`)
+# Statrys Tokens (`@statrys/tokens`, plus per-category icon packages like `@statrys/countryicon`)
 
 Foundation layer for the Statrys Design System — the single source of truth for
 design tokens (color, typography, spacing, radius, effects, motion, z-index),
@@ -20,9 +20,11 @@ component/     ← per-component tokens, one file per component (button.json, to
                  component's file
 build/         ← Style Dictionary config + custom transforms
 fonts/         ← GT Walsheim LC (.ttf for native, .woff2 for web) — licensed, see fonts.css
-icons/         ← icon set scaffold (manifest.json, package.json) — not yet built out or
-                 published as an installable package; packages/icons/src has no real
-                 icon components yet, so nothing currently depends on it
+countryicon/   ← @statrys/countryicon — country flag icon set (260 flags), real Flag
+                 component for web + React Native, not yet published as an installable
+                 package (see "Consuming" below). One category per package going
+                 forward — handdrawnicon/, fileicon/ etc. will be siblings, not
+                 subfolders of this one, when they're built out
 ```
 
 Tokens follow a three-tier structure (`primitives/` → `semantic/` →
@@ -57,8 +59,15 @@ Until this is published to a registry, consuming repos install it as a git depen
 Bump to a specific commit/tag when you want a pinned version instead of always
 tracking `main` — see `docs/versioning.md`.
 
+A git dependency like the one above always resolves to the *repo root's*
+`package.json` (`@statrys/tokens` itself) — there's no standard way to point
+a git dependency at a subdirectory's separate package. That means
+`@statrys/countryicon` (and future sibling icon packages) can't be installed
+by `web-ds`/`app-ds` the same way until it either becomes its own repo, or
+some other distribution path is worked out. Not yet resolved.
+
 ## Docs
 
-- `docs/versioning.md` — semver policy across `@statrys/tokens`, `@statrys/icons`,
+- `docs/versioning.md` — semver policy across `@statrys/tokens`, `@statrys/countryicon`,
   `@statrys/web-ds`, `@statrys/app-ds`
 - `docs/figma-sync.md` — working notes for the Figma Dev Mode MCP server

@@ -1,0 +1,17 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" fill="#FAFAFA"/>
+<g id="Country">
+<g id="colombia">
+<g id="colombia_2" clip-path="url(#clip0_748_47)">
+<path id="Vector" d="M0 11.9998C0 5.37252 5.37252 0 11.9998 0C18.627 0 23.9995 5.37252 23.9995 11.9998L11.9998 13.0432L0 11.9998Z" fill="#FFDA44"/>
+<path id="Vector_2" d="M1.60571 17.9996C3.68059 21.5863 7.5582 23.9995 11.9998 23.9995C16.4413 23.9995 20.3189 21.5863 22.3938 17.9996L11.9998 17.217L1.60571 17.9996Z" fill="#D80027"/>
+<path id="Vector_3" d="M22.3938 17.9996C23.4148 16.2346 23.9995 14.1855 23.9995 11.9998H0C0 14.1855 0.584707 16.2346 1.60572 17.9996H22.3938Z" fill="#0052B4"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_748_47">
+<rect width="23.9995" height="23.9995" fill="white"/>
+</clipPath>
+</defs>
+</svg>

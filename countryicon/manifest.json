@@ -1,0 +1,2084 @@
+{
+  "icons": [
+    {
+      "name": "abkhazia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "afghanistan",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "aland-islands",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "albania",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "algeria",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "american-samoa",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "andorra",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "angola",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "anguilla",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "antigua-and-barbuda",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "argentina",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "armenia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "aruba",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "australia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "austria",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "azerbaijan",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "azores-islands",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "bahamas",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "bahrain",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "balearic-islands",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "bangladesh",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "barbados",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "basque-country",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "belarus",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "belgium",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "belize",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "benin",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "bermuda",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "bhutan",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "bolivia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "bonaire",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "bosnia-and-herzegovina",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "botswana",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "brazil",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "british-columbia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "british-indian-ocean-territory",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "british-virgin-islands",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "brunei",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "bulgaria",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "burkina-faso",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "burundi",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "cambodia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "cameroon",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "canada",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "canary-islands",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "cape-verde",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "cayman-islands",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "central-african-republic",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "ceuta",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "chad",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "chile",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "china",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "cocos-island",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "colombia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "comoros",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "cook-islands",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "corsica",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "costa-rica",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "croatia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "cuba",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "curacao",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "cyprus",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "czech-republic",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "democratic-republic-of-congo",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "denmark",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "djibouti",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "dominica",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "dominican-republic",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "east-timor",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "ecuador",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "egypt",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "el-salvador",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "england",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "equatorial-guinea",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "eritrea",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "estonia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "ethiopia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "european-union",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "falkland-islands",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "faroe-islands",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "fiji",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "finland",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "france",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "french-polynesia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "gabon",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "galapagos-islands",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "gambia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "georgia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "germany",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "ghana",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "gibraltar",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "greece",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "greenland",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "grenada",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "guam",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "guatemala",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "guernsey",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "guinea-bissau",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "guinea",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "guyana",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "haiti",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "hawaii",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "honduras",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "hong-kong",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "hungary",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "iceland",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "india",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "indonesia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "iran",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "iraq",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "ireland",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "isle-of-man",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "israel",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "italy",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "ivory-coast",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "jamaica",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "japan",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "jersey",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "jordan",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "kazakhstan",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "kenya",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "kiribati",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "kosovo",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "kuwait",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "kyrgyzstan",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "laos",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "latvia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "lebanon",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "lesotho",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "liberia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "libya",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "liechtenstein",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "lithuania",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "luxembourg",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "macao",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "madagascar",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "madeira",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "malawi",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "malaysia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "maldives",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "mali",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "malta",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "marshall-island",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "martinique",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "mauritania",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "mauritius",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "melilla",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "mexico",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "micronesia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "moldova",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "monaco",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "mongolia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "montenegro",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "montserrat",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "morocco",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "mozambique",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "myanmar",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "namibia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "nato",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "nauru",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "nepal",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "netherlands",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "new-zealand",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "nicaragua",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "niger",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "nigeria",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "niue",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "norfolk-island",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "north-korea",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "northern-cyprus",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "northern-marianas-islands",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "norway",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "oman",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "orkney-islands",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "ossetia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "pakistan",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "palau",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "palestine",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "panama",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "papua-new-guinea",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "paraguay",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "peru",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "philippines",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "pitcairn-islands",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "poland",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "portugal",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "puerto-rico",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "qatar",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "rapa-nui",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "republic-of-macedonia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "republic-of-the-congo",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "romania",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "russia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "rwanda",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "saba-island",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "sahrawi-arab-democratic-republic",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "samoa",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "san-marino",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "sao-tome-and-prince",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "sardinia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "saudi-arabia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "scotland",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "senegal",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "serbia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "seychelles",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "sierra-leone",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "singapore",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "sint-eustatius",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "sint-maarten",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "slovakia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "slovenia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "solomon-islands",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "somalia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "somaliland",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "south-africa",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "south-korea",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "south-sudan",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "spain",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "sri-lanka",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "st-barts",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "st-lucia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "st-vincent-and-the-grenadines",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "sudan",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "suriname",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "swaziland",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "sweden",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "switzerland",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "syria",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "taiwan",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "tajikistan",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "tanzania",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "thailand",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "tibet",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "togo",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "tokelau",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "tonga",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "transnistria",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "trinidad-and-tobago",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "tunisia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "turkey",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "turkmenistan",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "turks-and-caicos",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "tuvalu",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "uganda",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "ukraine",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "united-arab-emirates",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "united-kingdom",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "united-nations",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "united-states",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "uruguay",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "uzbekistan",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "vanuatu",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "vatican-city",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "venezuela",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "vietnam",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "virgin-islands",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "wales",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "yemen",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "zambia",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    },
+    {
+      "name": "zimbabwe",
+      "tags": [
+        "flag",
+        "country"
+      ],
+      "usedBy": []
+    }
+  ]
+}

@@ -1,8 +1,0 @@
-{
-  "name": "@statrys/icons",
-  "version": "0.1.0",
-  "description": "Statrys icon set — optimized SVGs and React components",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
-  "files": ["dist"]
-}
