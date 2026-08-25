@@ -29,8 +29,13 @@
     "textColor": { "value": "{text.primary}", "type": "color" },
     "placeholderColor": { "value": "{text.placeholder}", "type": "color" },
     "disabledTextColor": { "value": "{text.disabled}", "type": "color" },
-    "iconColor": { "value": "{icon.secondary}", "type": "color" },
-    "disabledIconColor": { "value": "{icon.disabled}", "type": "color" },
+    "iconColor": { "value": "{icon.secondary}", "type": "color", "comment": "Leading icon and the dropdown/chip chevrons" },
+    "trailingIconColor": {
+      "value": "{icon.primary}",
+      "type": "color",
+      "comment": "The clickable trailing icon (Date picker's calendar) — Figma binds it to icon-primary while the leading icon and every chevron stay on icon-secondary; verified per-icon via get_variable_defs, not just at the frame level"
+    },
+    "disabledIconColor": { "value": "{icon.disabled}", "type": "color", "comment": "Shared by every icon slot once disabled" },
 
     "fontFamily": { "value": "{font.primary}", "type": "fontFamily" },
     "fontWeight": { "value": "{fontWeight.regular}", "type": "fontWeight" },
