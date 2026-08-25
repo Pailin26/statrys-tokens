@@ -1,0 +1,24 @@
+{
+  "textArea": {
+    "background": { "value": "{bg.neutral.primary}", "type": "color" },
+    "backgroundDisabled": { "value": "{bg.neutral.disabled}", "type": "color" },
+    "backgroundError": { "value": "{bg.error.subtle}", "type": "color" },
+    "border": { "value": "{border.neutral.primary}", "type": "color" },
+    "borderHover": { "value": "{border.neutral.primaryHover}", "type": "color" },
+    "borderFocus": { "value": "{neutral.10}", "type": "color" },
+    "borderError": { "value": "{border.error.bold}", "type": "color" },
+
+    "minHeight": { "value": "120px", "type": "dimension", "comment": "Figma [WEB] Design System TextAreaFields node 4011-5301" },
+    "paddingX": { "value": "{space.8}", "type": "dimension" },
+    "paddingY": { "value": "{space.6}", "type": "dimension" },
+    "radius": { "value": "{radius.xl}", "type": "dimension" },
+
+    "textColor": { "value": "{text.primary}", "type": "color" },
+    "placeholderColor": { "value": "{text.placeholder}", "type": "color" },
+    "disabledTextColor": { "value": "{text.disabled}", "type": "color" },
+
+    "fontFamily": { "value": "{font.primary}", "type": "fontFamily" },
+    "fontWeight": { "value": "{fontWeight.regular}", "type": "fontWeight" },
+    "fontSize": { "value": "{typography.bodyMd}", "type": "fontSize", "comment": "Textarea input text is body-md/16px, one size up from TextField's body-sm/14px" }
+  }
+}

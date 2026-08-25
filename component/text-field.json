@@ -1,0 +1,40 @@
+{
+  "textField": {
+    "background": { "value": "{bg.neutral.primary}", "type": "color" },
+    "backgroundDisabled": { "value": "{bg.neutral.disabled}", "type": "color" },
+    "backgroundError": { "value": "{bg.error.subtle}", "type": "color" },
+    "border": { "value": "{border.neutral.primary}", "type": "color" },
+    "borderHover": { "value": "{border.neutral.primaryHover}", "type": "color" },
+    "borderFocus": { "value": "{neutral.10}", "type": "color", "comment": "Near-black focus ring — same literal as field.borderFocus, no semantic token for it yet" },
+    "borderError": { "value": "{border.error.bold}", "type": "color" },
+
+    "height": {
+      "value": "48px",
+      "type": "dimension",
+      "comment": "Figma [WEB] Design System TextFields node 4011-4993 — one fixed height, not the sm/md/lg scale the older SearchInput/TextInputFluid use"
+    },
+    "paddingX": { "value": "{space.8}", "type": "dimension" },
+    "paddingY": { "value": "{space.6}", "type": "dimension" },
+    "radius": { "value": "{radius.xl}", "type": "dimension" },
+    "gap": { "value": "{space.4}", "type": "dimension" },
+
+    "iconSize": { "value": "20px", "type": "dimension", "comment": "Leading icon (Left Icon type) and the date-picker calendar icon" },
+    "chevronSize": { "value": "16px", "type": "dimension", "comment": "Chevron inside the country/currency/unit prefix-or-suffix chip" },
+    "dropdownChevronSize": {
+      "value": "24px",
+      "type": "dimension",
+      "comment": "Standalone Dropdown-type trailing chevron — Figma draws it larger than the inline chip chevron above"
+    },
+
+    "textColor": { "value": "{text.primary}", "type": "color" },
+    "placeholderColor": { "value": "{text.placeholder}", "type": "color" },
+    "disabledTextColor": { "value": "{text.disabled}", "type": "color" },
+    "iconColor": { "value": "{icon.secondary}", "type": "color" },
+    "disabledIconColor": { "value": "{icon.disabled}", "type": "color" },
+
+    "fontFamily": { "value": "{font.primary}", "type": "fontFamily" },
+    "fontWeight": { "value": "{fontWeight.regular}", "type": "fontWeight" },
+    "fontSize": { "value": "{typography.bodySm}", "type": "fontSize" },
+    "chipFontSize": { "value": "{typography.bodySm}", "type": "fontSize", "comment": "Country/currency code and unit chip label text" }
+  }
+}

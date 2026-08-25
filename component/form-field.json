@@ -1,0 +1,21 @@
+{
+  "formField": {
+    "gap": { "value": "{space.2}", "type": "dimension", "comment": "Label-to-control and control-to-caption gap, and the label-to-asterisk gap within the label row — Figma uses the same 4px value for all three" },
+
+    "labelColor": { "value": "{text.primary}", "type": "color" },
+    "labelFontFamily": { "value": "{font.primary}", "type": "fontFamily" },
+    "labelFontWeight": { "value": "{fontWeight.regular}", "type": "fontWeight" },
+    "labelFontSize": {
+      "value": "{typography.bodySm}",
+      "type": "fontSize",
+      "comment": "Figma Fields node 4011-4962. TextArea's own wrapper (node 4011-5267) shows a bolder body-md/medium label and a body-sm/14px caption instead of caption/12px — treated as a one-off inconsistency in that node and normalized to Fields' spec here, so a Field looks the same regardless of what control it wraps."
+    },
+
+    "errorColor": { "value": "{text.error.primary}", "type": "color", "comment": "Mandatory asterisk and caption text color while error" },
+
+    "captionColor": { "value": "{text.secondary}", "type": "color" },
+    "captionFontFamily": { "value": "{font.primary}", "type": "fontFamily" },
+    "captionFontWeight": { "value": "{fontWeight.regular}", "type": "fontWeight" },
+    "captionFontSize": { "value": "{typography.caption}", "type": "fontSize" }
+  }
+}
