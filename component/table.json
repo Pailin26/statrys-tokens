@@ -1,0 +1,39 @@
+{
+  "table": {
+    "background": { "value": "{bg.neutral.primary}", "type": "color" },
+    "radius": { "value": "{radius.3xl}", "type": "dimension" },
+    "padding": { "value": "{space.8}", "type": "dimension", "comment": "Outer container padding" },
+    "bodyGap": { "value": "{space.4}", "type": "dimension", "comment": "Gap between the header row and the body block" },
+
+    "headerBackground": { "value": "{bg.neutral.secondary}", "type": "color" },
+    "headerRadius": { "value": "{radius.lg}", "type": "dimension" },
+    "headerPaddingX": { "value": "{space.8}", "type": "dimension" },
+    "headerPaddingY": { "value": "{space.4}", "type": "dimension" },
+    "headerGap": { "value": "{space.8}", "type": "dimension", "comment": "Gap between header cells" },
+    "headerTextColor": { "value": "{text.secondary}", "type": "color" },
+    "headerFontFamily": { "value": "{font.primary}", "type": "fontFamily" },
+    "headerFontWeight": { "value": "{fontWeight.regular}", "type": "fontWeight" },
+    "headerFontSize": { "value": "{typography.caption}", "type": "fontSize" },
+
+    "rowGap": { "value": "{space.8}", "type": "dimension", "comment": "Gap between cells in a body row" },
+    "rowPaddingX": { "value": "{space.4}", "type": "dimension" },
+    "rowPaddingY": { "value": "{space.4}", "type": "dimension" },
+    "rowMinHeight": {
+      "value": "64px",
+      "type": "dimension",
+      "comment": "No semantic sizing token lands on this row height — one-off literal, Figma [WEB] Decoy Dashboard TransactionRow node 2926-25597. minHeight (not height) so rows with taller custom content still grow."
+    },
+    "rowBorderColor": { "value": "{border.beige.primary}", "type": "color" },
+    "rowBorderWidth": { "value": "{borderWidth.base}", "type": "dimension" },
+    "rowHoverBackground": {
+      "value": "{bg.neutral.secondaryHover}",
+      "type": "color",
+      "comment": "Only applied when Table.Row is given an onClick (interactive row)"
+    },
+
+    "cellTextColor": { "value": "{text.primary}", "type": "color" },
+    "cellFontFamily": { "value": "{font.primary}", "type": "fontFamily" },
+    "cellFontWeight": { "value": "{fontWeight.regular}", "type": "fontWeight" },
+    "cellFontSize": { "value": "{typography.bodySm}", "type": "fontSize" }
+  }
+}
