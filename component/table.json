@@ -26,9 +26,9 @@
     "rowBorderColor": { "value": "{border.beige.primary}", "type": "color" },
     "rowBorderWidth": { "value": "{borderWidth.base}", "type": "dimension" },
     "rowHoverBackground": {
-      "value": "{bg.neutral.secondaryHover}",
+      "value": "{bg.neutral.primaryHover}",
       "type": "color",
-      "comment": "Only applied when Table.Row is given an onClick (interactive row)"
+      "comment": "Only applied when Table.Row is given an onClick (interactive row). Paired with table.background = bg.neutral.primary, matching Sidebar's own itemBgHover precedent for a hoverable item resting on a neutral/white surface — not secondaryHover, which pairs with bg.neutral.secondary (the header's own background) instead."
     },
 
     "cellTextColor": { "value": "{text.primary}", "type": "color" },
