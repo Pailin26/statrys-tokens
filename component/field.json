@@ -9,9 +9,7 @@
     "heightSm": { "value": "36px", "type": "dimension" },
     "heightMd": { "value": "44px", "type": "dimension" },
     "heightLg": { "value": "56px", "type": "dimension" },
-    "iconSize": { "value": "20px", "type": "dimension", "comment": "Search icon, dropdown chevron" },
-    "clearIconWrapperSize": { "value": "20px", "type": "dimension" },
-    "clearIconSize": { "value": "16px", "type": "dimension" },
+    "iconSize": { "value": "20px", "type": "dimension", "comment": "Search icon, dropdown chevron, and SearchInput's trailing clear/mic action button — Figma [WEB] Design System node 4011-5322 draws all three as flush 20px glyphs, no separate tap-target/glyph split" },
     "tooltipIconSize": { "value": "16px", "type": "dimension" },
     "tooltipIconSizeFloating": { "value": "14px", "type": "dimension", "comment": "Smaller tooltip icon next to a floated (caption-size) label" }
   }
