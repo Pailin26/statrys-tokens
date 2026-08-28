@@ -17,9 +17,11 @@
     "fontWeight": { "value": "{fontWeight.medium}", "type": "fontWeight" },
     "gap": { "value": "{space.2}", "type": "dimension" },
     "iconSize": { "value": "16px", "type": "dimension" },
+    "textTransformUppercase": { "value": "uppercase", "type": "other", "comment": "accounting's fonts.css .link-upper-* utility" },
+    "textTransformSentence": { "value": "capitalize", "type": "other", "comment": "accounting's fonts.css .link-sentence-* utility" },
 
-    "fontSizeSm": { "value": "{fontSize.sm}", "type": "fontSize" },
-    "fontSizeMd": { "value": "{fontSize.base}", "type": "fontSize" },
-    "fontSizeLg": { "value": "{fontSize.lg}", "type": "fontSize" }
+    "fontSizeSm": { "value": "{typography.bodySm}", "type": "fontSize" },
+    "fontSizeMd": { "value": "{typography.bodyMd}", "type": "fontSize" },
+    "fontSizeLg": { "value": "{typography.bodyLg}", "type": "fontSize" }
   }
 }
